@@ -1,0 +1,497 @@
+<!doctype html>
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="baidu-site-verification" content="GW5AGNWhA3">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=9">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <script src="js/jquery.min.js" type="text/javascript" charset="utf-8">
+        </script>
+        <script src="js/bootstrap.min.js" type="text/javascript" charset="utf-8">
+        </script>
+        <link href="css/main.css" rel="stylesheet">
+    </head>
+    
+    <body>
+    	<div class="homeRoot">
+            <div class="homeDiv" style="background: #000;">
+                <nav class="homeHeader container">
+                    <a href="index.html">
+                        <img src="images/logo.png">
+                    </a>
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                            <img src="images/navbar_img.png" class="navbarImg">
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse homeHeaderUl" id="navbar-menu">
+                        <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+                      <li>
+                                <a href="index.html">
+                                    首页
+                                </a>
+                            </li>
+                            <li>
+                                <a href="index.html#div1o">
+                                    项目
+                                </a>
+                            </li>
+                            <li>
+                                <a href="yycj.html">
+                                    应用场景
+                                </a>
+                            </li>
+                            <li>
+                                <a href="daibi.html">
+                                    代币
+                                </a>
+                            </li>
+                           <li>
+                                <a href="rhc.pdf">
+                                    白皮书
+                                </a>
+                            </li>
+                            <li>
+                                <a href="team.html">
+                                    团队
+                                </a>
+                            </li>
+                            <li>
+                                <a href="index.html#div5o">
+                                    优势
+                                </a>
+                            </li>
+                            <li>
+                                <a href="hzhb.html">
+                                    合作伙伴
+                                </a>
+                            </li>
+                            <li>
+                              <a href="index.html#contact">
+                                    联系方式
+                                    </a>
+                            </li>
+                             <li>
+                                <a href="hzhb.html">
+                                  GitHub开源查询
+                                </a>
+                            </li>
+                            <!--<li><a href="">登录</a></li>
+                            <li><a href="">注册</a></li>-->
+                        </ul>
+                    </div>
+                    <div class="homeGit">
+                        <a href="index.html">
+                            中文
+                        </a>
+                        |
+                        <a href="">
+                            English
+                        </a>
+                    </div>
+                </nav>
+            </div>
+            <div class="nw_slider_wrap">
+				<div id="particles-js" class="large-header"></div>
+				<div class="container">
+					<div class="nbb_content">
+                        <div class="nbb_f1">
+                            <p>RHC</p>
+                            <p>RHC未来 链接世界 </p>
+                        </div>
+                        <div class="nbb_btn">
+                            <p>
+                                一种重新定义BlockChain的国际化应用生态 线上线下价值的转换区块链
+                            </p>
+                            <p>
+                                一种基于金融、支付、新零售理念的“世界超级大账本”
+                            </p>
+                            <p>
+                                一种应用于全球新零售理念的区块链。
+                            </p>
+                        </div>
+					</div>
+                </div>
+            </div>
+            <div class="div1o" id="div1o">
+                <div class="container div1oHeader">
+                    <h2>
+                        <hr class="div1HeaderImg">
+                        RHC做什么
+                        <hr class="div1HeaderImg">
+                    </h2>
+                    <div class="div1oBody">
+                        <div class="div1oBodyCard" id="card1">
+                            <div class="div1oBodyCardModule">
+                                <img src="images/20170818093606905.png"
+                                id="div1oimg1" style="transform: translate3d(0px, 0px, 0px); animation: 1.5s linear 0s normal none 1 running fadeRotate;">
+                                <p>
+                                    数字资产
+                                    <br>
+                                    <span>
+                                        价值传输
+                                    </span>
+                                </p>
+                            </div>
+                            <img class="div1oBodyCardLine" src="images/yingyong_bg.png" alt="">
+                            <ul>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    全网机构、个人价值生成
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    全网用户数字资产价值传输。
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="div1oBodyCard" id="card2">
+                            <div class="div1oBodyCardModule">
+                                <img src="images/20170818093905922.png"
+                                id="div1oimg2" style="transform: translate3d(0px, 0px, 0px); animation: 1.5s linear 0s normal none 1 running fadeRotate;">
+                                <p>
+                                    智能合约
+                                    <br>
+                                    <span>
+                                        安全隐私
+                                    </span>
+                                </p>
+                            </div>
+                            <img class="div1oBodyCardLine" src="images/yingyong_bg.png" alt="">
+                            <ul>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    所有价值传输高度自治
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    全网用户以去中心化的方式生成自己的数字资产
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    安全、隐私、匿名
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="div1oBodyCard" id="card3">
+                            <div class="div1oBodyCardModule">
+                                <img src="images/20170818094406313.png"
+                                id="div1oimg3" style="transform: translate3d(0px, 0px, 0px); animation: 1.5s linear 0s normal none 1 running fadeRotate;">
+                                <p>
+                                    数字货币
+                                    <br>
+                                    <span>
+                                        基础信息
+                                    </span>
+                                </p>
+                            </div>
+                            <img class="div1oBodyCardLine" src="images/yingyong_bg.png" alt="">
+                            <ul>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                   RHC总量1亿枚
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    RHC数字资产个体化
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    数字资产价值投资
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    个人多种现金流的收益方法
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    个人数字资产和智能协作
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="div1oBodyCard" id="card4">
+                            <div class="div1oBodyCardModule">
+                                <img src="images/20170818094417768.png"
+                                id="div1oimg4" style="transform: translate3d(0px, 0px, 0px); animation: 1.5s linear 0s normal none 1 running fadeRotate;">
+                                <p>
+                                    RHC
+                                    <br>
+                                    <span>
+                                         RHC应用
+                                    </span>
+                                </p>
+                            </div>
+                            <img class="div1oBodyCardLine" src="images/yingyong_bg.png" alt="">
+                            <ul>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    简易通用钱包
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    身份和信用体系
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    投票\预测
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    多重签名智能契约
+                                </li>
+                                <li>
+                                    <img alt="" src="images/icon01.png" />
+                                    去中心化的信息存储器
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container div2Header" id="div2o">
+                <h2>
+                    <hr class="div1HeaderImg">
+                    应用场景落地
+                    <hr class="div1HeaderImg">
+                </h2>
+                <p style="font-size: 15px">
+                    RHC.cc是国际首家打造全方位综合的全球国际化的跨链交流平台。在RHC，用户的付出将获得相应的回报,并专设相应的国际间跨链爱心服务<br />项目，RHC将引入RHC ID，以实现平台的透明化运作。RHC是RHC的区块链代币，代表RHC及其周边生态的使用权和价值间的转换。
+                </p>
+                <div class="astroModule2">
+                    <div class="astroModule2word pull-left">
+                        <h3 style="padding: 10px 0;">
+                           RHC国际社区使用权：
+                        </h3>
+                        <ol>
+                            <li>
+                                1、奖励原创优秀作品
+                            </li>
+                            <li>
+                                2、主权身份系统
+                            </li>
+                            <li>
+                                3、奖励点赞用户
+                            </li>
+                            <li>
+                                4、奖励各大版块社区管理员
+                            </li>
+                            <li>
+                                5、广告商使用代币
+                            </li>
+                            <li>
+                                6、国际、国内间爱心援助
+                            </li>
+                            <li>
+                                7、交友支付
+                            </li>
+                            <li>
+                                8、区块链大伽与粉丝间互动
+                            </li>
+                            <li>
+                                9、其他方面跨链食品应用。
+                            </li>
+                        </ol>
+                    </div>
+                    <div class="astroModule2word">
+                        <h3 style="padding: 10px 0;">
+                            RHC ID：
+                        </h3>
+                        <ol>
+                            <li>
+                                一个用户自己RHC私钥的自主权身份系统
+                            </li>
+                            <li>
+                                一个中心化运作的黑匣子
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="div6" id="div5o">
+                <div class="div6Header" style="background: url(images/homeFooter.png) repeat scroll 0% 0%;">
+                    <div class="container div6Title">
+                        <h2>
+                            <hr class="div1HeaderImg">
+                            <!-- react-text: 391 -->
+                            我们的优势
+                            <hr class="div1HeaderImg">
+                        </h2>
+                    </div>
+                    <div class="div6Body">
+                        <div class="div6BodyCard" id="div6Card1">
+                            <img src="images/20170810114712933.png" alt="">
+                            <p>
+                                核心团队区块链底层技术的多年积累
+                            </p>
+                            <span>
+                                区块链跨链交互的理念和模式从FACTOM起就 持续积累，RHC项目从模式到技术均酝酿已久。核心成员在区块链领域的多年积累，对于
+                                共识算法、智能和约、钱包等方面均各有所长。
+                                <br>
+                                <br>
+                            </span>
+                            <p class="CardBoxText">
+                                TEAM
+                            </p>
+                        </div>
+                        <div class="div6BodyCard" id="div6Card2">
+                            <img src="images/20170810114826406.png" alt="">
+                            <p>
+                                顶尖密码学专家的区块链团队
+                            </p>
+                            <span>
+                                在区块链底层进行持续创业需要密码学的理论 论证支撑，RHC团队中有三位应用数学博士 负责进行RHC项目中涉及到的密码学应用进
+                                行创新、论证及算法编写。放眼全球的区块链 项目，这样的配置是相当少见的。
+                            </span>
+                            <p class="CardBoxText">
+                                EXPERTS
+                            </p>
+                        </div>
+                        <div class="div6BodyCard" id="div6Card3">
+                            <img src="images/20170810114912318.png" alt="">
+                            <p>
+                                全球商业化及社区运营能力
+                            </p>
+                            <span>
+                                运营团队在中国、美国、加拿大等多地均有丰富的商业经验和资源，并联合世界文化基金组织进行全球推广，聘请华尔街顶级投资顾问投资及指导RHC项目。
+                            </span>
+                            <p class="CardBoxText">
+                                C A P A C I T Y
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="FooterRoot" id="contact">
+			    <div class="FooterContainer container">
+			        <div class="FooterformGroup form-group col-lg-4">
+			            <img src="images/icon09.png" alt="">
+			            <input class="form-control" id="name" placeholder="Please enter the email address"
+			            type="text">
+			            <div class="submit-area">
+			                <a class="btn submit-button" data-toggle="modal" data-target=".bs-example-modal-lg">
+			                    <!-- react-text: 443 -->
+			                    +
+			                    <!-- react-text: 444 -->
+			                    订阅
+			                </a>
+			            </div>
+			            <div class="f_logo" style="padding-top: 15px;">
+			                <a class="logo bottommargin_10">
+			                </a>
+			                <div class="clear">
+			                </div>
+			                <h4 class="widget-title">
+			                    RHC未来
+			                </h4>
+			            </div>
+			        </div>
+			        <div class="formGroupDiv form-group col-lg-4">
+			            <div class="fContact">
+			                <div class="widget widget_text topmargin_20">
+			                    <h3 class="widget-title">
+			                        联系我们
+			                    </h3>
+			                    <hr class="divider_60_2 main_bg_color divider_left">
+			                    <div class="small-teaser">
+			                        <div class="greylinks underlined-links">
+			                            <img alt="" src="images/icon09.png">
+			                             <a href="javascript:;">
+                                            Telegram (中文）：RHC@RHC.cc
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="small-teaser">
+                                    <div class="greylinks underlined-links">
+                                        <img alt="" src="images/icon09.png">
+                                        <a href="javascript:;">
+                                            Telegram (English）：RHC@RHC.cc
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="small-teaser">
+                                   
+                                </div>
+                                <div class="small-teaser">
+                                    <div class="greylinks underlined-links">
+                                        <img alt="" src="images/footer_img04.jpg">
+                                        <a href="javascript:;" id="weixin">
+                                            点击扫码加微信
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="small-teaser">
+                                 
+			                    </div>
+			                </div>
+			            </div>
+			        </div>
+			        <br>
+			    </div>
+			    <div class="FooterEnd">
+			        <span>
+			             RHC.ink 2018 版权所有 All Rights Reserved
+			        </span>
+			    </div>
+			    <!-- react-empty: 465 -->
+			</div>
+
+
+
+    		
+    	</div>
+
+    </body>
+</html>
+
+
+<!-- scripts -->
+<script src="js/particles.min.js"></script>
+<script src="js/app.js"></script>
+<!-- stats.js -->
+<script src="js/stats.js"></script>
+<script src="js/layer.js" type="text/javascript" charset="utf-8"></script>
+<link href="css/layer.css" type="text/css" rel="styleSheet" id="layermcss">
+<script type="text/javascript">
+	$('#weixin').on('click', function () {
+        layer.open({
+            content: '<img src="images/weixin.jpg"><br /><p>长按/扫描识别二维码加好友</p>'
+			    , btn: '关闭'
+        });
+    });
+    //qq
+    $('#qq').on('click', function () {
+        layer.open({
+            content: '<img src="images/qq.jpg" width="180"><br /><p>长按/扫描识别二维码加好友</p>'
+			    , btn: '关闭'
+        });
+    });
+</script>
+
+<script>
+  var count_particles, stats, update;
+  stats = new Stats;
+  stats.setMode(0);
+  stats.domElement.style.position = 'absolute';
+  stats.domElement.style.left = '0px';
+  stats.domElement.style.top = '0px';
+  document.body.appendChild(stats.domElement);
+  count_particles = document.querySelector('.js-count-particles');
+  update = function() {
+    stats.begin();
+    stats.end();
+    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+    }
+    requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+</script>
